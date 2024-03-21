@@ -1,0 +1,2 @@
+# KienTrucPhanMem_Lap02
+KienTrucPhanMem
